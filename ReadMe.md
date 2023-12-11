@@ -20,7 +20,7 @@
 - **SpectreTile-Studying**. Some ongoing study about the spectre monotile.
 - **CombinatorialEq-Hat&Metatile**. Prove the combinatorial equivalence between the hat prototile and metatiles (H7/H8 in original paper), by study all possible 1/3 vertex configurations of both. A 1-1 map can be built.
 
-<img src="https://github.com/Jayce-Ping/HatTilingProject/blob/main/figs/cmpEq.png?raw=true" alt="cmpeq" style="zoom:60%;" />
+<img src="https://github.com/Jayce-Ping/HatTilingProject/blob/main/figs/cmpEq.png?raw=true" alt="cmpeq" style="zoom:50%;" />
 
 
 
