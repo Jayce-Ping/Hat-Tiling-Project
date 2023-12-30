@@ -32,7 +32,7 @@
 
 - [An aperiodic monotile](https://cs.uwaterloo.ca/~csk/hat/)
 
-- [\[WSS23] Hat tiling space reduction and grow function implementation](https://community.wolfram.com/groups/-/m/t/2957268)
-- [\[WSS23] Hat tiling: vertex configurations further elimination](https://community.wolfram.com/groups/-/m/t/2967510)
+- [\[WSS23\] Hat tiling space reduction and grow function implementation](https://community.wolfram.com/groups/-/m/t/2957268)
+- [\[WSS23\] Hat tiling: vertex configurations further elimination](https://community.wolfram.com/groups/-/m/t/2967510)
 
 - [Hat tiling: fractal subtitution. Wolfram Community](https://community.wolfram.com/groups/-/m/t/2979005)
